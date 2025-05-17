@@ -5,7 +5,7 @@ Finding the talented Candidates whom are suitable for the announced job roles an
 
 
 Data Description:
-The Dataset consists of 104 rows and 5 columns categorized into #id, job_title, location, connection, fit. 
+The Dataset consists of 104 rows and 5 columns categorized into #id, #job_title, #location, #connection, #fit. 
 
 
 Goal(s):
