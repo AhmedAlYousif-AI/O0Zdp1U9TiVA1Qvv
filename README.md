@@ -14,7 +14,7 @@ Methodology:
 3. Removing the #location column and #id column from the dataset.
 4. Removing the #fit column since its a Null column, while considering to re-fill it again after building and training the model to apply the ranking process.
 5. Applying Word Embedding technique by using FastText, Mini_LM, and Google Bert (Uncased version) Models.
-6. Calculating the Cosine_Similarity for the Embeddings from each Word Embedding Model.
+6. Calculating the Cosine_Similarity of the Embeddings for each Word Embedding Model.
 7. Applying Feature Scaling techique on #connection column by using Minimum Maximum Scaler.
 8. Applying the Ranking Formula by using a 30% from each Word Embeddings combined and adding it with a 10% from the scaled connections.
 9. Applying Sorting technique by Sorting the Ranking column in a Descending order.
