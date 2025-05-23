@@ -1,14 +1,14 @@
 # Potential Talents
 
-Introduction:
+# Introduction:
 Built a recommondation system that could help finding the talented Candidates whom are suitable for the announced job roles and assigning them as a Human resources and staffing company to the technology companies.
 
 
-Data Description:
+# Data Description:
 The Dataset consists of 999 rows and 5 columns categorized into #id, #job_title, #location, #connection, #fit. 
 
 
-Methodology:
+# Methodology:
 1. Applying EDA (Exploratory Data Analysis) techniques to understand the structure and the content of the dataset and analyze its nature and the required processing steps.
 2. Cleaning the dataset by removing all the missing values (Nulls) from the dataset, the samples decreased from 999 entites to 104 entites.
 3. Removing the #location column and #id column from the dataset.
@@ -21,5 +21,5 @@ Methodology:
 10. Ranking the candidates based on their qualifications for the annonuced roles from the most suitable ones up to the lowers.
 
 
-Conclusion:
+# Conclusion:
 Results reached to 86.4% ranked from the highest qualified candidates up to the lowest.
