@@ -1,7 +1,7 @@
 # Potential Talents
 
 Introduction:
-Building a recommondation system that could help finding the talented Candidates whom are suitable for the announced job roles and assigning them as a Human resources and staffing company to the technology companies.
+Built a recommondation system that could help finding the talented Candidates whom are suitable for the announced job roles and assigning them as a Human resources and staffing company to the technology companies.
 
 
 Data Description:
